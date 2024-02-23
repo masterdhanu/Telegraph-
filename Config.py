@@ -23,7 +23,7 @@ else:
     # Fill the Values
     API_ID = 10434273
     API_HASH = "526aef9b5156f182c7887fa7ba63c7b5"
-    BOT_TOKEN = "7133136842:AAGsrlA8PaXhX8jrIYyQQwuPDsrx7xhsOTo"
+    BOT_TOKEN = "6391255953:AAFzo4wHRCuRwkGFxH5nOeDThglYAgR7TX4"
     DATABASE_URL = "postgres://orarhqso:gnhzffTPci-6LRRmF0qwyAgktu-Dy7Gz@manny.db.elephantsql.com/orarhqso"
     MUST_JOIN = "WaifuSnatcherbotSupport"
     OWNER_ID = 1749188073
